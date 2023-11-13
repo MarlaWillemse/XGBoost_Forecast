@@ -1,0 +1,9 @@
+Min date: 2013-11-07 00:00:00
+Max date: 2018-05-06 00:00:00
+Nr. days represented: 1623
+Nr. days missing: 19
+Percentage days missing: 1.16
+Minimum Value: 664
+Nr. of Values == zero: 0
+Min Value before outlier removal: 664
+Max Value before outlier removal: 7249

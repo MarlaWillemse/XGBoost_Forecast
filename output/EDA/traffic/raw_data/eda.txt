@@ -1,0 +1,9 @@
+Min date: 2015-01-01 00:00:00
+Max date: 2018-05-06 00:00:00
+Nr. days represented: 1215
+Nr. days missing: 7
+Percentage days missing: 0.57
+Minimum Value: 0
+Nr. of Values == zero: 2294
+Min Value before outlier removal: 0
+Max Value before outlier removal: 122
